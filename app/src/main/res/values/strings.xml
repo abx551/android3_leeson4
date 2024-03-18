@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android3_leeson4</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="number">Ведите номер телефона</string>
+</resources>
